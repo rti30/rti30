@@ -31,7 +31,8 @@
 Репозиторий Back-end: [backend](https://github.com/rti30/flower-back)
 Создавался в целях изучения фреймворка Vue и запросов к серверу. 
 *	Дополнительно: пример кода из бесплатного учебного курса. Для оценки самых начальных знаний по верстке (только html, css, семантика, BEM, SEO)
-[Код] (https://github.com/rti30/rtom1) [Демо](https://rti30.github.io/rtom1)
+[Код](https://github.com/rti30/rtom1) 
+[Демо](https://rti30.github.io/rtom1)
 
 
 По проекту реализовал не всё. Схема Базы данных:
